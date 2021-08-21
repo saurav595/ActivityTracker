@@ -1,7 +1,7 @@
 # CS5500Project
 Repo for CS5500 Group Project
 
-This project is done my Ka Foon (Kelvin) Siu, Saurav Shah and Vedanta Prusty.
+This project is done by Ka Foon (Kelvin) Siu, Saurav Shah and Vedanta Prusty.
 
 This project is for the CS5500 - Foundations of Software Engineering Class. 
 
