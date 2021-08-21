@@ -31,3 +31,6 @@ The  GET request for all other endpoints is present in a separate collection fra
 The POST request for all endpoints collection framework consumes a JSON file for each kind of API. Run the collection by selecting the desired endpoint and select the corresponding JSON file for the API. You can add more objects to the JSON file retaining the format so as to test the modularity of the APIs.
 The DELETE request is implemented for /records API in a collection framework. You can modify the {date} in the request to delete the specific record and associated data from the database.
 All the requests return a PASS if the API returns a success code in the response body otherwise the console will throw the respective error.
+
+
+
