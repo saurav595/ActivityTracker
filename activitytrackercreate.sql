@@ -93,6 +93,7 @@ CREATE TABLE Place(
     CONSTRAINT pk_Activity_Places_activity_placesId PRIMARY KEY(activity_placesId),
     CONSTRAINT fk_Activity_Places_placeId FOREIGN KEY(placetypeId) REFERENCES Place(placetypeId)
     );
+    
 
 
 
