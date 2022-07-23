@@ -1,5 +1,4 @@
-# CS5500Project
-Repo for CS5500 Group Project
+# Activity Tracker
 
 This project is done by Ka Foon (Kelvin) Siu, Saurav Shah and Vedanta Prusty.
 
